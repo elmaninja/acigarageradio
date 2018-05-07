@@ -41,14 +41,14 @@ body {
 
 #changeTheme:hover {
     color: #00303e;
-    background-color: #ff2760;
+    background-color: #ff3300;
     cursor: pointer;
 }
 
 .currentlyPlaying {
     margin: 10px auto;
     margin-bottom: 0px;
-    color: #efc544;
+    color: #ffffff;
     font-size: 1rem;
     max-width: 100%;
 }
@@ -56,7 +56,7 @@ body {
 #currentTitle {
     margin: 10px auto;
     margin-top: 6px;
-    color: #0096c1;
+    color: #ff3300;
     font-size: 1.5rem;
     max-width: 100%;
     word-wrap: break-word;
